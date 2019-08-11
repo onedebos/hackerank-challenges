@@ -2,4 +2,4 @@
 
 |CHALLENGE|SOLUTION-JS|SOLUTION-RUBY|
 |---|---|---|
-|[The Time In Words - Medium](https://www.hackerrank.com/challenges/the-time-in-words/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/the-time-in-words.js)||
+|[Birthday Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|[JavaScript](https://github.com/onedebos/hackerank-challenges/blob/master/js-birthday-candles.js)|[Ruby](https://github.com/onedebos/hackerank-challenges/blob/master/birthday-candles.rb)
